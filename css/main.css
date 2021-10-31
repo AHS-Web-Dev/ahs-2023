@@ -872,13 +872,13 @@ input[type="button"].btn--primary:focus {
 
 .btn--stroke, button.btn--stroke {
     background: transparent !important;
-    border: 0.2rem solid #FF0000;
-    color: #FF0000;
+    border: 0.2rem solid white;
+    color: white;
 }
 
 .btn--stroke:hover, button.btn--stroke:hover {
-    border: 0.2rem solid #000000;
-    color: #000000;
+    border: 0.2rem grey;
+    color: grey;
 }
 
 .btn--pill, button.btn--pill {
@@ -1228,7 +1228,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     font-family: "montserrat-medium", sans-serif;
     font-size: 5.2rem;
     line-height: 1.255;
-    color: white;
+    color: #000000;
     margin-top: 0;
 }
 
@@ -2794,7 +2794,7 @@ html.no-csstransitions .home-content__main {
     font-family: "lora-regular", serif;
     font-size: 3rem;
     line-height: 1.8;
-    color: white;
+    color: #555555;
     margin-bottom: 6rem;
 }
 
